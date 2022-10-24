@@ -1,13 +1,6 @@
 # JavaScript_OOP_BookList
 
-* Projeto feito com o intuito de desenvolver as habilidades aprendidas durante cursos.
-* O CSS e o HTML não foram o foco deste projeto, contudo, em um futuro há espaço para aperfeiçoamento.
+> Projeto feito com o intuito de desenvolver as habilidades aprendidas durante cursos.
+> O CSS e o HTML não foram o foco deste projeto, contudo, em um futuro há espaço para aperfeiçoamento.
 
-> [!NOTE]
-> Information the user should notice even if skimming.
-
-> Lorem ipsum dolor sit amet
-> Consectetur adipiscing elit
-{.is-info}
-
-![image](https://user-images.githubusercontent.com/102185385/197554931-013d285a-bcb3-45de-ba0c-da359ccc01bb.png)
+<img src="https://user-images.githubusercontent.com/102185385/197554931-013d285a-bcb3-45de-ba0c-da359ccc01bb.png" alt="drawing" width="200"/>
