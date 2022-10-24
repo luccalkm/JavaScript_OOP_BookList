@@ -1,7 +1,13 @@
 # JavaScript_OOP_BookList
-Projeto feito para fixação e aprendizado de OOP e LocalStorage utilizando Javascript Vanilla.
 
 * Projeto feito com o intuito de desenvolver as habilidades aprendidas durante cursos.
 * O CSS e o HTML não foram o foco deste projeto, contudo, em um futuro há espaço para aperfeiçoamento.
 
-![image](https://user-images.githubusercontent.com/102185385/197553296-ee91d57e-0ee0-45f2-974d-4dbec3a5bf10.png)
+> [!NOTE]
+> Information the user should notice even if skimming.
+
+> Lorem ipsum dolor sit amet
+> Consectetur adipiscing elit
+{.is-info}
+
+![image](https://user-images.githubusercontent.com/102185385/197554931-013d285a-bcb3-45de-ba0c-da359ccc01bb.png)
