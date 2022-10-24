@@ -45,7 +45,7 @@ class UI {
 		// Delete
 		setTimeout(function () {
 			document.querySelector(".alert").remove();
-		}, 3000);
+		}, 2800);
 	}
 }
 
@@ -79,7 +79,6 @@ class LocalStore {
 		const books = LocalStore.getBooks();
 		books.forEach((book, index) => {
 			if (book.isbn === isbn) {
-				console.log(isbn);
 				books.splice(index, 1);
 			}
 		});
